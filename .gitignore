@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+app.py.bck
+deployment_v8_another_tuned_motif/
+deployment_v8_another_tuned_motif.zip
